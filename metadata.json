@@ -1,0 +1,5 @@
+{
+  "name": "Rannikot - Peliprototyyppi",
+  "description": "Interaktiivinen prototyyppi Rannikot-oppimispelistä. Pelaa peliä, hallinnoi resursseja ja vastaa kysymyksiin suojellaksesi rannikkoasi. Tämä on pelattava versio aiemmin esitellystä pelisuunnitelmasta.",
+  "requestFramePermissions": []
+}
